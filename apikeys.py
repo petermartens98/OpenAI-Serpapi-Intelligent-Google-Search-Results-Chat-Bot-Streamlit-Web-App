@@ -1,0 +1,2 @@
+serpapikey = ""
+openaikey = ""
